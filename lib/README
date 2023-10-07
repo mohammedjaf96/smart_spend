@@ -1,0 +1,14 @@
+
+   on terminal run =>   flutter pub get  => flutter run
+   -------------------------------------------------
+   if it's not work run =>    pod repo update
+   :  maybe the project doesn't work on ios because of your xcode version or flutter, dart version
+   then you need to run    pod repo update
+   -------------------------------------------------
+   i preferably to use real device when testing the app
+   -------------------------------------------------
+   when app running it's ask for 2 permissions
+   the first one it's as for notifications it's not important
+   but the second permission it's for connect with your wifi it's important when you need login with firebase
+   -------------------------------------------------
+   you can do all functions and using app as anonymous with out login

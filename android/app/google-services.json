@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579369324703",
+    "project_id": "smartspend-e28c7",
+    "storage_bucket": "smartspend-e28c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579369324703:android:cfd348a403b9bf332592aa",
+        "android_client_info": {
+          "package_name": "mohammed.esmaeel.aljaf.smartspend.smartspend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSdlZSd_Pknd6Ek2ODNC8--qu9ZkhyMcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
